@@ -1,0 +1,53 @@
+.nav-head{
+	color: gray;
+}
+
+.team-button{
+	border: none;
+}
+.background-image-container{
+	background-image: 400px 200px;
+}
+.icons{
+	padding-bottom: 5px;
+}
+.social-contain{
+	padding-top: 5px;
+	padding-bottom:  10px;
+	background-color: lightseagreen;
+
+}
+
+
+.inside-social{
+	height: 40px;
+
+}
+
+.social-icon{
+ color:                                                                                               gray;
+}
+#para{
+	padding: 5px;
+	padding-left: 17px;
+}
+.car-image-first{
+	width: 270px;
+	height: 180px;
+	transition: all 1s;
+}
+.car-image{
+	width: 270px;
+	height: 90px;
+	transition: all 1s;
+}
+.car-image-first:hover{
+	transform: scale(1.1);
+	animation;
+}
+.car-image:hover{
+	transform: scale(1.1);
+	animation;
+}
+
+
